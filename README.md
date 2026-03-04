@@ -137,8 +137,8 @@ This query analyzes listening activity across subscription tiers.
 
 ## Future Improvements
 
-- [ ] **Workflow Orchestration** — Schedule and monitor ETL jobs with Apache Airflow or Prefect
-- [ ] **Data Validation** — Implement quality checks using Great Expectations
-- [ ] **Incremental Processing** — Add logic to process only newly arrived data
-- [ ] **Cloud Deployment** — Migrate to AWS S3 (storage), AWS RDS or Snowflake (warehouse), Docker (containerization)
-- [ ] **Streaming Pipeline** — Extend architecture for real-time ingestion using Kafka or Kinesis
+- **Workflow Orchestration** — Schedule and monitor ETL jobs with Apache Airflow or Prefect
+- **Data Validation** — Implement quality checks using Great Expectations
+- **Incremental Processing** — Add logic to process only newly arrived data
+- **Cloud Deployment** — Migrate to AWS S3 (storage), AWS RDS or Snowflake (warehouse), Docker (containerization)
+- **Streaming Pipeline** — Extend architecture for real-time ingestion using Kafka or Kinesis
