@@ -30,6 +30,8 @@ The resulting database enables efficient analysis of user listening patterns, ar
 
 ## System Architecture
 
+![Pipeline Architecture](images/data_pipeline_architecture.png)
+
 ```mermaid
 flowchart TD
     A[Song Metadata JSON] --> C[ETL Pipeline]
